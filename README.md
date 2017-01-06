@@ -1,0 +1,1 @@
+This Bot imitates Almis Udrys of performance and analytics... poorly.
